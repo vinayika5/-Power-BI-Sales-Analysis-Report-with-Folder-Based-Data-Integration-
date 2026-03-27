@@ -63,18 +63,18 @@ This project solves that problem by consolidating multiple datasets into a singl
 
 ## 📈 Key Insights and Business recommendation
 
- Strong profitability (~20%)
-→ Maintain pricing; push premium products to increase margins.
-Revenue driven by Appliances & Electronics (~95%)
-→ Focus marketing here; bundle Accessories to boost sales.
-Sales concentrated in few states (Delhi, Karnataka, Gujarat)
-→ Expand into weaker regions using targeted campaigns.
-Top salespeople contribute disproportionately
-→ Train others using top performers’ strategies + incentives.
-Top cities dominate revenue (e.g., Howrah, Surat)
-→ Invest in mid-tier cities for growth.
-Few products drive most revenue (Laptop, AC, etc.)
-→ Promote best-sellers; bundle or reduce low-performing products.Electronics and Appliances contribute the highest revenue
+ - Strong profitability (~20%)
+   Maintain pricing; push premium products to increase margins.
+ - Revenue driven by Appliances & Electronics (~95%)
+   Focus marketing here; bundle Accessories to boost sales.
+ - Sales concentrated in few states (Delhi, Karnataka, Gujarat)
+   Expand into weaker regions using targeted campaigns.
+ - Top salespeople contribute disproportionately
+   Train others using top performers’ strategies + incentives.
+-  Top cities dominate revenue (e.g., Howrah, Surat)
+   Invest in mid-tier cities for growth.
+- Few products drive most revenue (Laptop, AC, etc.)
+  Promote best-sellers; bundle or reduce low-performing products.Electronics and Appliances        contribute the highest revenue
 
 
 ## 👤 About Me
